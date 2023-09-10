@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1694349800 source:c:\users\pc\desktop\c-graduation project\c-project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1694348204 source:c:\users\pc\desktop\c-graduation project\c-project\sdb.c
+	"SDB.h"
+	<stdio.h>
+
+1694348142 c:\users\pc\desktop\c-graduation project\c-project\sdb.h
+	"STD.h"
+
+1694347864 c:\users\pc\desktop\c-graduation project\c-project\std.h
+
+1694350137 source:c:\users\pc\desktop\c-graduation project\c-project\sdb_app.c
+	<stdio.h>
+	"SDB.h"
+
